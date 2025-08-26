@@ -2,7 +2,7 @@
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-- 🔭 I’m currently studying on <a href="https://www.pnj.ac.id/">Politeknik Negeri Jakarta</a>
+- 🔭 I’m currently studying at the <a href="https://www.pnj.ac.id/">Politeknik Negeri Jakarta</a>
 - 🌱 I’m currently learning about machine learning and deeplearning
 - 💬 Feel free to ask me about web development or JavaScript
 - ⚡ Fun fact: Beginner Badminton Player
