@@ -1,3 +1,8 @@
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/hero.svg" width="100%" />
+</p>
+
 ### Hi! 👋 I'm Arya.
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
