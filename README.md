@@ -1,9 +1,7 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2b1055,100:159957&text=Arya%20&fontColor=ffffff&fontSize=32&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2b1055,100:159957&text=Hii!!%20I'm%20Arya&fontColor=ffffff&fontSize=32&fontAlignY=35" />
 </p>
-
-### Hi! 👋 I'm Arya.
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
