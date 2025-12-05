@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2b1055,100:159957&text=Arya%20—%20Machine%20Learning%20Engineer&fontColor=ffffff&fontSize=32&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2b1055,100:159957&text=Arya%20&fontColor=ffffff&fontSize=32&fontAlignY=35" />
 </p>
 
 ### Hi! 👋 I'm Arya.
