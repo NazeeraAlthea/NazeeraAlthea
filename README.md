@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  https://i.gifer.com/origin/4f/4f1c6bd1544d4795f7975cdc8e90d518_w200.gif
+  <img src="https://raw.githubusercontent.com/artaabdi/animated-banners/main/ai/neural-blue.svg" width="100%" />
 </p>
 
 ### Hi! 👋 I'm Arya.
