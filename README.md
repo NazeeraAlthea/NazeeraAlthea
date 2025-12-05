@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/hero.svg" width="100%" />
+  https://i.gifer.com/origin/4f/4f1c6bd1544d4795f7975cdc8e90d518_w200.gif
 </p>
 
 ### Hi! 👋 I'm Arya.
